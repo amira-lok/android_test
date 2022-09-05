@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources [
+    <!ENTITY devicename "MyDeviceName">
+    <!ENTITY author "MsIrene">
+    <!ENTITY appname "SuperApp">
+    ]>
+<resources>
+  <string name="app_name">ЛОЦАЛ_СДК апликација за тестирање</string>
+  <string name="device_name_installation">ЛОЦАЛ_Ова тестна апликација је инсталирана на следећем уређају: &amp;devicename;</string>
+  <string name="sample_key">ЛОЦАЛ_Ова вредност је преузета из локалних стрингс.кмл</string>
+  <string name="local_key">ЛОЦАЛ_Још једна вредност кључа је преузета из локалних стрингс.кмл</string>
+  <string name="description">The &appname; app was created by &author;</string>
+</resources>

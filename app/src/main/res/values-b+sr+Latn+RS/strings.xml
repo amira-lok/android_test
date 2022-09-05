@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">BUNDLE_SDK aplikacija za testiranje</string>
+  <string name="device_name_installation">BUNDLE_Ova testna aplikacija je instalirana na sledećem uređaju: &amp;devicename;</string>
+  <string name="sample_key">BUNDLE_Ova vrednost je preuzeta iz lokalnih </string>
+  <string name="local_key">BUNDLE_Još jedna vrednost ključa je preuzeta iz lokalnih </string>
+  <string name="locale_info">Локалитет апликације:</string>
+  <string name="description">&amp;appname; апликацију је креирао &amp;author;</string>
+  <plurals name="my_cats">
+    <item quantity="one">Имам мачку %s</item>
+    <item quantity="few"></item>
+    <item quantity="other">Имам %s мачке</item>
+  </plurals>
+</resources>

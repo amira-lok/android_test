@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources [
+    <!ENTITY devicename "MyDeviceName">
+    <!ENTITY author "MsIrene">
+    <!ENTITY appname "SuperApp">
+    ]>
+<resources>
+    <string name="app_name">Local_SDK Test App</string>
+    <!--<string name="locale_info">App Locale: </string>-->
+    <string name="device_name_installation">This test app is installed in the following device: &devicename;</string>
+    <string name="sample_key">This value is taken from local strings.xml</string>
+    <string name="local_key">Another key value is taken from local strings.xml</string>
+    <string name="description">The &appname; app was created by &author;</string>
+    <string name="my_beautiful_cats">My beautiful cats</string>
+    <string name="report_planned_date">Planned date</string>
+    <plurals name="my_cats">
+        <item quantity="one">I have %s cat</item>
+        <item quantity="other">I have %s cats</item>
+    </plurals>
+    <string name="btnOpenCalendar">Open Calendar</string>
+    <string name="spinner_mode">Spinner Mode?</string>
+    <string name="select_date">Select Date</string>
+</resources>

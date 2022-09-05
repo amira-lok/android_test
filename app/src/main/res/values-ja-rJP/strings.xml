@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources [
+    <!ENTITY devicename "MyDeviceName">
+    <!ENTITY author "MsIrene">
+    <!ENTITY appname "SuperApp">
+    ]>
+<resources>
+  <string name="app_name">SDKテストアプリ</string>
+  <string name="device_name_installation">このテストアプリは、次のデバイスにインストールされています： &amp;devicename;</string>
+  <string name="sample_key">この値は、ローカルのstrings.xmlから取得されます</string>
+  <string name="local_key">別のキー値はローカルstrings.xmlから取得されます</string>
+  <string name="description">The &appname; app was created by &author;</string>
+</resources>
